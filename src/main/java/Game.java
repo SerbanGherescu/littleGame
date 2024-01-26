@@ -5,11 +5,13 @@ public class Game {
 
     public static void main(String[] args) {
 
-//        You can customize starting numbers of points by modify the value after "=" (modify 20 with any number you want)
+//       You can customize starting numbers of points by modify the value after "=" (modify 20 with any number you want)
         int points = 20;
 
 //        Here I set name for user who is going to play this game
-        String user = JOptionPane.showInputDialog("Enter your name");
+        String name = JOptionPane.showInputDialog("Enter your name");
+//       I create a new user variable to make first letter of user's name to be a capital letter instead of a little one
+        String user = name.substring(0,1).toUpperCase()+name.substring(1);
 
 //        Here I inform the player how many points he will start with
         JOptionPane.showMessageDialog(null, user + " you start with " + points + " points");

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c945646e-52c4-45a5-b243-0656c93e12e4" name="Changes" comment="Last Commit" />
+    <list default="true" id="c945646e-52c4-45a5-b243-0656c93e12e4" name="Changes" comment="Change order in while loop for not displaying starting message again when player pick a wrong number" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +40,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/sgher/Desktop/MyProjects/learningSwing/LittleGame"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,11 +60,19 @@
       <option name="project" value="LOCAL" />
       <updated>1706111839256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change order in while loop for not displaying starting message again when player pick a wrong number">
+      <created>1706291937151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706291937151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Last Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last Commit" />
+    <MESSAGE value="Change order in while loop for not displaying starting message again when player pick a wrong number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change order in while loop for not displaying starting message again when player pick a wrong number" />
   </component>
 </project>
